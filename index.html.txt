@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>General Info:</h2>
+
+<table>
+  <tr>
+    <th>Code</th>
+    <th>Site</th>
+    <th>Type</th>
+    <th>Area</th>
+    <th>Capacity</th>
+    <th>Current Volume</th>
+    <th>Remain Volume</th>
+  </tr> 
+  <tr>
+    <td>L016</td>
+    <td>Jubail</td>
+    <td>Stabilized Non-Hazardous Waste</td>
+    <td>25,351 Sq.M</td>
+    <td>209,000 Cu.M</td>
+    <td>135,734 Cu.M</td>
+    <td>71,256 Cu.M</td>
+  </tr> 
+  <tr>
+ 
+</table>
+
+</body>
+</html>
+

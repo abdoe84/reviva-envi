@@ -1,0 +1,77 @@
+<style>
+/* Styles for the header */
+header {
+    background-color: #cfd1d0;
+    color: #07176f;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+}
+/* Style for the "p" element */
+p {
+    color: red;
+    text-indent: 20px;
+    text-transform: uppercase;
+    }
+/* Styles for the logo */
+.logo img {
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Styles for the table */
+table {
+    text-align: left;
+    position: relative;
+    border-collapse: collapse;
+    background-color: #5c9db0;
+    width: 100%;
+}
+
+/* Spacing for table cells */
+td, th {
+    border: 1px solid #060606; 
+    padding: 10px;
+    color: #f0f0f0; /* Off-white (very light gray) font color */
+}
+
+/* Styles for the table caption */
+caption {
+    background-color: #33cccc;
+    padding: 8px;
+    font-weight: bold;
+}
+
+/* Styles for table header cells */
+th {
+    background: #635b9b;
+    border-radius: 0;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+}
+
+/* Styles for the table footer */
+tfoot > tr {
+    background: black;
+    color: white;
+}
+
+/* Highlight table rows on hover */
+tbody > tr:hover {
+    background-color: #ebc60d;
+}
+
+/* Centered text for h2 elements */
+h2 {
+    text-align: center;
+
+}
+
+/* Style for the image */
+img {
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+}
+</style>
